@@ -1,0 +1,19 @@
+.input{
+    height: 24px;
+    border-radius: 8px;
+    border: 1px solid black;
+}
+
+.label{
+    text-align: left;
+}
+
+.submit{
+    height: 40px;
+    background-color: #378760;
+    border-radius: 8px;
+    color: white;
+    font-size: 24px;
+    font-weight: 400;
+    margin-top: 8px;
+}

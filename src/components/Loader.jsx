@@ -3,7 +3,7 @@ import styles from "./Loader.module.css";
 
 const Loader = () => {
     return (<div className={styles.loaderPage}>
-        <img className={styles.spinner} src={loaderGif}></img>
+        <img className={styles.spinner} src={loaderGif} alt="...Loading"></img>
     </div>)
 }
 
